@@ -1,0 +1,607 @@
+Outbreak ID,Date,Year,Province ,Territory ,Health Zone,Cases,Deaths,Confirmed,CFR (%),M/F,Age,OCV Delivered,Population,"Cases/100,000","Deaths/100,000",IDP/Displacement,Socio-cultural,Food/Water,Environmental,Rural/Urban,Sanitation & Hygiene,Education,Occupation,Household/Setting,Conflict (Y),Healthcare,Interventions ,Aid,Reference
+COD78-5-12-1,12 May,1978,Tanganyika,Kalemie,,312,96,,30.769,,,,"24,956,358",1.2502,0.3847,,,,Contaminated river ,,,,,Living on islets,,Lack of supplies ,Vaccination,,"Schyns, C., Fossa, A., Mutombo, N., Kabuyahiya, H.P. and Piot, P., 1979. Cholera in Eastern Zaire, 1978. Ann Soc Belg Med Trop, 59(4), pp.391-400."
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,"Schyns, C., Fossa, A., Mutombo, N., Kabuyahiya, H.P. and Piot, P., 1979. Cholera in Eastern Zaire, 1978. Ann Soc Belg Med Trop, 59(4), pp.391-400."
+,,,,Uvira,,"3,295",258,,7.830,,,,"24,956,358",,1.0338,,,,,,,,,,,,,,"Schyns, C., Fossa, A., Mutombo, N., Kabuyahiya, H.P. and Piot, P., 1979. Cholera in Eastern Zaire, 1978. Ann Soc Belg Med Trop, 59(4), pp.391-400."
+,,,,Bakavu,,"1,029",35,,3.401,,,,"24,956,358",,0.1402,,,,,,,,,,,,,,"Schyns, C., Fossa, A., Mutombo, N., Kabuyahiya, H.P. and Piot, P., 1979. Cholera in Eastern Zaire, 1978. Ann Soc Belg Med Trop, 59(4), pp.391-400."
+,,,,Katana,,"4,500",145,,3.222,,,,"24,956,358",,0.5810,,,,,,,,,,,,,,"Schyns, C., Fossa, A., Mutombo, N., Kabuyahiya, H.P. and Piot, P., 1979. Cholera in Eastern Zaire, 1978. Ann Soc Belg Med Trop, 59(4), pp.391-400."
+COD87-8-1-1,1 Aug,1987,Mai-Ndombe,Bolobo,,,48,,,,,,"31,528,708",,0.1522,,,,,,,,,,,,,,https://public.emdat.be
+COD96-4-4-1,4 Apr,1996,,,,147,33,,22.449,,,,"42,757,243",0.3438,0.0772,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Kinshasa,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,,Barumbu,,,,,,,,,,,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,,Limete,,,,,,,,,,,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Kongo Central,Kingwala,,,,,,,,,,,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD96-7-5-1,5 Jul,1996,,,,821,179,,21.803,,,,"42,757,243",1.9201,0.4186,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD96-11-15-1,15 Nov,1996,,,,2,,,,,,,"42,757,243",0.0047,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD96-11-16-1,16 Nov,1996,Kinshasa,,,821,179,,21.803,,,,"42,757,243",1.9201,0.4186,,,,,,,,,,,,,,https://public.emdat.be
+COD96-11-16-2,16 Nov,1996,North Kivu,Goma,Sake,"1,133",23,,2.030,,,,"42,757,243",2.6498,0.0538,,,,,,,,,,,,,,https://public.emdat.be
+COD96-12-13-1,13 Dec,1996,North Kivu,Goma,,"1,133",23,,2.030,,,,"42,757,243",2.6498,0.0538,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD97-4-15-1,15 Apr,1997,,,,,,,,,,,,,,Kasese IDP camp,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Kinshasa,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD97-12-18-1,18 Dec,1997,Zaire,,Kapalata Camp,800,54,,6.750,,,,"43,827,180",1.8254,0.1232,,,,Heavy rainfall,,Sanitation ,,,,,,,,https://public.emdat.be
+COD98-1-1-1,1 Jan,1998,,,,"9,605",746,,7.767,,,,"44,849,967",21.4158,1.6633,,,,,,,,,,,,,,https://public.emdat.be
+,,,Ituri,Bunia,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,South Kivu,Bukava,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD98-1-6-1,6 Jan,1998,Tshopo,Kisangani,,800,54,,6.750,,,,"44,849,967",1.7837,0.1204,,,,Heavy rainfall,,Sanitation ,,,Military camp,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD98-4-1-1,1 Apr,1998,,,,"3,962",115,,2.903,,,,"44,849,967",8.8339,0.2564,,,,,,,,,,,,,,https://public.emdat.be
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,North Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Orientale ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD98-5-19-1,19 May,1998,Ituri,Bunia,,"9,605",746,,7.767,,,,"44,849,967",21.4158,1.6633,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD98-10-1-1,1 Oct,1998,South Kivu,Shabunda,,,30,,,,,,"44,849,967",,0.0669,,,,,,,,,,,,,,https://public.emdat.be
+COD99-12-9-1,9 Dec,1999,Kinshasa,,,74,4,,5.405,,,,"45,919,613",0.1612,0.0087,,,Domestic water supply,Heavy rainfall,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD01-2-1-1,1 Feb,2001,North Kivu,Goma,,677,8,,1.182,,,,"48,428,545",1.3979,0.0165,,,,,,,,,,,,,,https://public.emdat.be
+COD01-10-1-1,1 Oct,2001,Katanga ,,,851,72,,8.461,,,,"48,428,545",1.7572,0.1487,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Lubumbashi,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Ankoro,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Kabalo,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Kongolo,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Kelemie,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD01-11-1-1,1 Nov,2001,Katanga ,,,"6,099",502,,8.231,,,,"48,428,545",12.5938,1.0366,,,,,,,,,,,,,,https://public.emdat.be
+COD02-3-5-1,5 Mar,2002,Katanga ,,,"5,021",407,,8.106,,,,"49,871,666",10.0678,0.8161,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD02-3-15-1,15 Mar,2002,Katanga ,,,"6,601",502,,7.605,,,,"49,871,666",13.2360,1.0066,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD02-7-1-1,1 Jul,2002,,,,"2,636",67,,2.542,,,,"49,871,666",5.2856,0.1343,,,,,,,,,,,,,,https://public.emdat.be
+,,,Lomani,Malemba-Nkulu,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Katanga ,Kabalo,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,North Kivu,Butembo,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Kasai Orientale ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD02-9-1-1,1 Sep,2002,Kasai Orientale ,Mbuki-Mayi,,"9,767",571,,5.846,,,,"48,428,545",20.1679,1.1791,,,,,,,,,,,,,,"Dongmo, N.T., Mutombo, B., Ateudjieu, J., Tengomo, G.F., Kwengani, M., Gabo, P., Diwampovesa, M.C.G., Akilimali, L., Miwanda, B., Nkwesheu, A. and Bangonda, M., 2020. Cholera Outbreak in the Kasaï Orientale  Province, Democratic Republic of Congo (DRC), 2018: The Case Fatality Rate in Mbuji-Mayi City and in the Rural Area. Science, 8(1), pp.8-18."
+COD02-9-16-1,16 Sep,2002,Katanga ,,,"2,636",67,,2.542,,,,"48,428,545",5.4431,0.1383,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD02-10-16-1,16 Oct,2002,Kasai Orientale ,Mbuju-Mayi,,353,41,,11.615,,,,"48,428,545",0.7289,0.0847,,,,,,,,,,,,,,https://public.emdat.be
+COD02-11-15-1,15 Nov,2002,Kasai Orientale ,,,394,41,,10.406,,,,"49,871,666",0.7900,0.0822,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD03-6-13-1,13 Jun,2003,,,,"13,452",380,,2.825,,,,"51,425,580",26.1582,0.7389,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,South Kivu,,,"1,387",26,,1.875,,,,"51,425,580",2.6971,0.0506,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Katanga ,,,"7,557",221,,2.924,,,,"51,425,580",14.6950,0.4297,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Kasai Orientale ,,,"3,098",89,,2.873,,,,"51,425,580",6.0242,0.1731,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD03-6-1-1,1 Jun,2003,,,,"13,072",380,,2.907,,,,"51,425,580",25.4193,0.7389,,,,,,,,,,,,,,https://public.emdat.be
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Katanga ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Kasai Orientale ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD03-9-17-1,17 Sep,2003,Kasai Orientale ,Mbuki-Mayi,,"7,145",369,,5.164,,,,"51,425,580",13.8939,0.7175,,,,,,,,,,,,,,https://public.emdat.be
+COD05-1-1-1,1 Jan,2005,Ituri,,,"1,420",29,,2.042,,,,"54,785,903",2.5919,0.0529,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Kafé,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Tchomia,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Tché,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD05-1-17-1,17 Jan,2005,Lake Kivu,,,"2,152",34,,1.580,,,,"54,785,903",3.9280,0.0621,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Bukavu,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Uvira,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD06-1-6-1,6 Jan,2006,Katanga ,North Katanga,,770,34,,4.416,,,,"56,578,037",1.3610,0.0601,,,,,,,,,,,,,,https://public.emdat.be
+COD06-1-6-2,6 Jan,2006,South Kivu,,,948,13,,1.371,,,,"56,578,037",1.6756,0.0230,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Uvira,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,,Fizi,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD06-10-1-1,1 Oct,2006,South Kivu,Bukavu,,246,10,,4.065,,,,"56,578,037",0.4348,0.0177,,,,,,,,,,,,,,https://public.emdat.be
+,,,,,Kadutu,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,,,Bagira,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,,,Ibanda,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD08-1-1-1,1 Jan,2008,Katanga ,,,"5,990",,19,,,"1,278 cases <5 yrs",,"60,411,195",9.9154,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+COD08-9-30-1,30 Sep,2008,North Kivu,Ngungu,,116,17,,14.655,,,,"60,411,195",0.1920,0.0281,IDP camp,,,,,,,,,Y,,,,https://promedmail.org/promed-posts/
+COD08-10-31-1,31 Oct,2008,South Kivu,,,172,0,,0.000,,,,"60,411,195",0.2847,,,,,Contaminated river ,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Fizi,,96,2,,2.083,,,,"60,411,195",0.1589,0.0033,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Minova,,54,0,,0.000,,,,"60,411,195",0.0894,0.0000,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD08-11-12-1,12 Nov,2008,North Kivu,,,100,8,,8.000,,,,"60,411,195",0.1655,0.0132,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Goma,,93,2,,2.151,,,,"60,411,195",0.1539,0.0033,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD09-1-1-1,1 Jan,2009,South Kivu,,,"10,070",102,,1.013,,,,"62,448,574",16.1253,0.1633,,,,,,,,,,,,,,https://public.emdat.be
+COD09-1-1-2,1 Jan,2009,North Kivu,,,"5,639",61,,1.082,,,,"62,448,574",9.0298,0.0977,,,,,,,,,,,,,,https://public.emdat.be
+COD09-7-20-1,20 Jul,2009,North Kivu,,,"2,342",27,,1.153,,,,"62,448,574",3.7503,0.0432,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,South Kivu,,,"4,326",63,,1.456,,,,"62,448,574",6.9273,0.1009,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD09-8-1-1,1 Aug,2009,,,,"11,652",,209,,,"1,278 cases <5 yrs",,"62,448,574",18.6586,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,North Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,Tanganyika,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+COD09-8-18-1,18 Aug,2009,North Kivu,Goma,,87,,,0.000,,,,"62,448,574",0.1393,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD09-9-22-1,22 Sep,2009,Tanganyika,Kalemie,,"1,029",2,,0.194,,,,"62,448,574",1.6478,0.0032,,,,,,,,,,,Exceed hospital capacity,,,https://promedmail.org/promed-posts/
+COD09-10-8-1,8 Oct,2009,South Kivu,,,562,7,,1.246,,,,"62,448,574",0.8999,0.0112,,,,,,,,,,,,,RedCross,https://promedmail.org/promed-posts/
+,,,Tanganyika,Kalemie,,"1,055",,,,,,,"62,448,574",1.6894,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD09-11-3-1,3 Nov,2009,Katanga,,,,10,,,,,,"62,448,574",,0.0160,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD10-1-1-1,1 Jan,2010,,,,"3,984",31,,0.778,,,,"64,563,854",6.1706,0.0480,,,,,,,,,,,,,,https://public.emdat.be
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,North Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Katanga ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD10-6-15-1,15 Jun,2010,Tshopo,Kisangani,Bosoko,"1,000",32,,3.200,,,,"64,563,854",1.5489,0.0496,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD10-6-16-1,16 Jun,2010,Tshopo,Kisangani,Bosoko,"1,000",32,,3.200,,,,"64,563,854",1.5489,0.0496,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD10-8-1-1,1 Aug,2010,South Kivu,,,290,2,,0.690,,,,"64,563,854",0.4492,0.0031,,,,,,,,,,Y,,,MSF,https://promedmail.org/promed-posts/
+,,,,Shabunda,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Katshungu,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD10-9-10-1,10 Sep,2010,South Kivu,,,400,,,,,,,"64,563,854",0.6195,,,,Water shortage/access,,,,,,,Y,,,,https://promedmail.org/promed-posts/
+,,,,Shabunda,,300,,,,,,,"64,563,854",0.4647,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Fizi,,98,,,,,,,"64,563,854",0.1518,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD10-9-16-1,16 Sep,2010,South Kivu,Uvira,,170,1,,,,,,"64,563,854",0.2633,0.0015,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD10-9-27-1,27 Sep,2010,Tanganyika,Kalemie,,,10,,,,,,"64,563,854",,0.0155,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD10-11-9-1,9 Nov,2010,Katanga,,,100,2,,2.000,,,,"64,563,854",0.1549,0.0031,,,Water shortage/access,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Kalemie,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Kongolo,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Tanganyika,Ankoro,Ngoya,41,2,,4.878,,,,"64,563,854",0.0635,0.0031,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD10-10-7-1,7 Oct,2010,Tanganyika,Kalemie,,200,7,,3.500,,,,"64,563,854",0.3098,0.0108,,,Water shortage/access,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD10-12-20-1,20 Dec,2010,,,,,30,,,,,,"64,563,854",,0.0465,,,,,,,,,,,Lack of supplies ,,,https://promedmail.org/promed-posts/
+COD11-1-1-1,1 Jan,2011,Congo River,,,"14,686",,667,,,"2,809 cases <5 yrs",,"66,755,153",21.9998,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+COD11-1-1-2,1 Jan,2011,Tshopo,Kisangani,,,33,,,,,,"66,755,153",,0.0494,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-1-3-1,3 Jan,2011,,,,"22,233",603,,2.712,,,,"66,755,153",33.3053,0.9033,,,,,,,,,,,,,,https://public.emdat.be
+,,,Bandundu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Kinshasa,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Orientale  ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Maniema,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Ituri,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,North Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Katanga ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD11-3-1-1,1 Mar,2011,Tshopo,Kisangani,,"3,896",265,,6.802,,,,"66,755,153",5.8363,0.3970,,,,,,,,,,,,,,"Kelvin, A.A., 2011. Cholera outbreak in the Republic of Congo, the Democratic Republic of Congo, and cholera worldwide. J. Infect. Dev. Ctries, 5, pp.137-143."
+COD11-3-25-1,25 Mar,2011,Orientale ,Kisangani,,537,33,,6.145,,,,"66,755,153",0.8044,0.0494,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-4-12-1,4 Apr,2011,Orientale ,Kisangani,,931,51,,5.478,,,,"66,755,153",1.3946,0.0764,,,,Heavy rainfall,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-4-5-1,5 Apr,2011,Orientale ,,,786,45,,5.725,,,,"66,755,153",1.1774,0.0674,,,Water shortage/access,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-6-17-1,17 Jun,2011,Bandundu,Bolobo,,483,29,,6.004,,,,"66,755,153",0.7235,0.0434,,,,,,,,,,,,,MSF,https://promedmail.org/promed-posts/
+COD11-6-23-1,23 Jun,2011,Bandundu,Bolobo,,839,49,,5.840,,,,"66,755,153",1.2568,0.0734,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-7-4-1,4 Jul,2011,,,,"3,000",192,,6.400,,,,"66,755,153",4.4940,0.2876,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bandundu,,,"1,271",72,,5.665,,,,"66,755,153",1.9040,0.1079,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-7-8-1,8 Jul,2011,,,,"1,796",116,,6.459,,,,"66,755,153",2.6904,0.1738,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bandundu,Bolobo,,"1,236",66,,5.340,,,,"66,755,153",1.8515,0.0989,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,35,6,,17.143,,,,"66,755,153",0.0524,0.0090,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,525,66,,12.571,,,,"66,755,153",0.7865,0.0989,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-7-19-1,19 Jul,2011,,,,"3,729",254,,6.811,,,,"66,755,153",5.5861,0.3805,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Orientale ,,,,97,,,,,,"66,755,153",,0.1453,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bandundu,,,,77,,,,,,"66,755,153",,0.1153,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,,72,,,,,,"66,755,153",,0.1079,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,,9,,,,,,"66,755,153",,0.0135,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-7-22-1,22 Jul,2011,,,,"3,896",265,,6.802,,,,"66,755,153",5.8363,0.3970,,,,Contaminated river ,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Bandundu,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Kinshasa,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Orientale ,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD11-7-27-1,27 Jul,2011,,,,"4,000",279,,6.975,,,,"66,755,153",5.9920,0.4179,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Orientale ,,,"1,400",102,,7.286,,,,"66,755,153",2.0972,0.1528,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,124,14,,11.290,,,,"66,755,153",0.1858,0.0210,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-7-27-2,27 Jul,2011,,,,"3,896",265,,6.802,,,,"66,755,153",5.8363,0.3970,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-8-11-1,11 Aug,2011,,,,"5,088",296,,5.818,,,,"66,755,153",7.6219,0.4434,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bandundu,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Orientale ,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-8-11-2,11 Aug,2011,,,,"4,062",279,,6.869,,,,"66,755,153",6.0849,0.4179,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-8-12-1,12 Aug,2011,Bandundu,,,"1,604",100,,6.234,,,,"66,755,153",2.4028,0.1498,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,"1,627",93,,5.716,,,,"66,755,153",2.4373,0.1393,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Orientale ,,,"1,586",85,,5.359,,,,"66,755,153",2.3758,0.1273,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,271,21,,7.749,,,,"66,755,153",0.4060,0.0315,,,,,,,,,,,,Chlorination points,Oxfam,https://promedmail.org/promed-posts/
+COD11-8-19-1,19 Aug,2011,,,,"5,171",301,,5.821,,,,"66,755,153",7.7462,0.4509,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bandundu,,,,101,,,,,,"66,755,153",,0.1513,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,,90,,,,,,"66,755,153",,0.1348,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Orientale ,,,,82,,,,,,"66,755,153",,0.1228,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,,25,,,,,,"66,755,153",,0.0375,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-8-23-1,23 Aug,2011,Equateur ,Monkoto,,103,,,,,,,"66,755,153",0.1543,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,7,3,,42.857,,,,"66,755,153",0.0105,0.0045,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,361,26,,7.202,,,,"66,755,153",0.5408,0.0389,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bandundu,,,"1,645",104,,6.322,,,,"66,755,153",2.4642,0.1558,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-9-21-1,21 Sep,2011,Equateur ,,,"1,450",136,,9.379,,,,"66,755,153",2.1721,0.2037,,,Poor water quality ,,,Handwashing & sanitation,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Mbandaka,,26,,,,,,,"66,755,153",0.0389,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-9-30-1,30 Sep,2011,Orientale ,,,"1,590",82,,5.157,,,,"66,755,153",2.3818,0.1228,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,"2,395",131,,5.470,,,,"66,755,153",3.5877,0.1962,,,,Heavy rainfall,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-10-7-1,7 Oct,2011,Orientale ,,,"6,910",384,,5.557,,,,"66,755,153",10.3513,0.5752,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-10-10-1,10 Oct,2011,Kinshasa,Maluku,,17,1,,5.882,,,,"66,755,153",0.0255,0.0015,,,,,,Sanitation & hygiene ,,,Living on islets,,,,,https://promedmail.org/promed-posts/
+COD11-11-16-1,16 Nov,2011,,,,"17,500",508,,2.903,,,,"66,755,153",26.2152,0.7610,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bandundu,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Orientale ,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-11-27-1,27 Nov,2011,,,,"18,165",382,,2.103,,,,"66,755,153",27.2114,0.5722,Adjacent to port,,,,,,,"Fishing, Trade",Overcrowding,,,,,"Bompangue, D., Vesenbeckh, S.M., Giraudoux, P., Castro, M., Muyembe, J.J., Ilunga, B.K. and Murray, M., 2012. Cholera ante portas–The re-emergence of cholera in Kinshasa after a ten-year hiatus. PLoS currents, 4."
+,,,Kinshasa,,,663,37,,5.581,,,,"66,755,153",0.9932,0.0554,,,,,,,,,,,,,,"Bompangue, D., Vesenbeckh, S.M., Giraudoux, P., Castro, M., Muyembe, J.J., Ilunga, B.K. and Murray, M., 2012. Cholera ante portas–The re-emergence of cholera in Kinshasa after a ten-year hiatus. PLoS currents, 4."
+,,,Bandundu,,,,,10,6.270,,,,,,,,,,,,,,,,,,,,"Bompangue, D., Vesenbeckh, S.M., Giraudoux, P., Castro, M., Muyembe, J.J., Ilunga, B.K. and Murray, M., 2012. Cholera ante portas–The re-emergence of cholera in Kinshasa after a ten-year hiatus. PLoS currents, 4."
+,,,Equateur ,,,,,,2.580,,,,,,,,,,,,,,,,,,,,"Bompangue, D., Vesenbeckh, S.M., Giraudoux, P., Castro, M., Muyembe, J.J., Ilunga, B.K. and Murray, M., 2012. Cholera ante portas–The re-emergence of cholera in Kinshasa after a ten-year hiatus. PLoS currents, 4."
+COD11-12-8-1,8 Dec,2011,Congo River,,,"7,722",426,,5.517,,,,"66,755,153",11.5676,0.6382,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,"3,040",140,,4.605,,,,"66,755,153",4.5540,0.2097,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bandundu,,,"2,301",138,,5.997,,,,"66,755,153",3.4469,0.2067,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Eastern,,,"1,631",84,,5.150,,,,"66,755,153",2.4433,0.1258,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,750,39,,5.200,,,,"66,755,153",1.1235,0.0584,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-12-28-1,28 Dec,2011,Ituri,Bunia,,17,5,,29.412,,,,"66,755,153",0.0255,0.0075,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-12-29-1,29 Dec,2011,,,,"21,500",575,,2.674,,,,"66,755,153",32.2073,0.8614,,,Water shortage/access,,,Sanitation,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bandundu,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,351,13,,3.704,,,,"66,755,153",0.5258,0.0195,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,South Kivu,,,70,,,,,,,"66,755,153",0.1049,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD11-12-29-2,29 Dec,2011,,,,"3,045",165,,5.419,,,,"66,755,153",4.5614,0.2472,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,963,42,,4.361,,,,"66,755,153",1.4426,0.0629,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,South Kivu,,,253,4,,1.581,,,,"66,755,153",0.3790,0.0060,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-1-1-1,1 Jan,2012,,,,"22,792",512,,2.246,,,,"69,020,747",33.0220,0.7418,,,,,,,,,,,,,,https://public.emdat.be
+,,,Orientale ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,North Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Katanga ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Kongo Central,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Bandundu,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Kinshasa,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD12-1-1-2,1 Jan,2012,Ituri,,,"4,696",,0,,,828 cases <5 yrs,,"69,020,747",6.8038,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+COD12-1-5-1,5 Jan,2012,South Kivu,Sange ,Ruzizi,48,2,,4.167,,,,"69,020,747",0.0695,0.0029,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Ituri,,,161,3,,1.863,,,,"69,020,747",0.2333,0.0043,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-1-13-1,13 Jan,2012,South Kivu,,,"1,633",14,,0.857,,,,"69,020,747",2.3660,0.0203,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-1-13-2,13 Jan,2012,Orientale ,,,200,8,,4.000,,,,"69,020,747",0.2898,0.0116,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Ituri,,,13,,,,,,,"69,020,747",0.0188,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Bunia,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Djugu,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-1-19-1,19 Jan,2012,Ituri,,,50,4,,8.000,,,,"69,020,747",0.0724,0.0058,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Koga,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Tchomia,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-1-20-1,20 Jan,2012,,,,"8,092",436,,5.388,,,,"69,020,747",11.7240,0.6317,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,Bandundu,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Ituri,,,519,22,,4.239,,,,"69,020,747",0.7519,0.0319,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,351,,,,,,,"69,020,747",0.5085,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,South Kivu,,,"13,612",148,,1.087,,,,"69,020,747",19.7216,0.2144,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Bukavu,,150,,,,,,,"69,020,747",0.2173,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-1-27-1,27 Jan,2012,,,,"22,000",584,,2.655,,,,"69,020,747",31.8745,0.8461,,,,,,,,,,,,,"UN, UNICEF, WHO",https://promedmail.org/promed-posts/
+COD12-1-30-1,30 Jan,2012,Kinshasa,,,"1,100",,,,,,,"69,020,747",1.5937,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-2-12-1,2 Feb,2012,,,,"26,000",644,,2.477,,,,"69,020,747",37.6698,0.9331,,,Water shortage/access,,,,,,,Y,,,,https://promedmail.org/promed-posts/
+COD12-2-4-1,4 Feb,2012,North Kivu,Kisindi-Lubiriya,,23,2,,8.696,,,,"69,020,747",0.0333,0.0029,,,,,,,,,,,Lack of resources ,,,https://promedmail.org/promed-posts/
+COD12-2-6-1,6 Feb,2012,Kongo Central,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Moanda,,50,,,,,,,"69,020,747",0.0724,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Kitona,,2,1,,50.000,,,,"69,020,747",0.0029,0.0014,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-2-18-1,18 Feb,2012,Equateur ,,,4,,,,,,,"69,020,747",0.0058,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Makanza,,2,,,,,,,"69,020,747",0.0029,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Mawuya,,2,,,,,,,"69,020,747",0.0029,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kongo Central,,,124,5,,4.032,,,,"69,020,747",0.1797,0.0072,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Ituri,Bunia,,"1,155",30,,2.597,,,,"69,020,747",1.6734,0.0435,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Tchomia,,893,,,,,,,"69,020,747",1.2938,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-3-1-1,1 Mar,2012,,,,600,40,,6.667,,,,"69,020,747",0.8693,0.0580,,,,,,,,,,,,,,https://public.emdat.be
+,,,Ituri,Bunia,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+,,,Orientale ,,,,,,,,,,,,,,,,,,,,,,,,,,https://public.emdat.be
+COD12-3-8-1,8 Mar,2012,North Kivu,Goma,,,50,,,,,,"69,020,747",,0.0724,,,Water shortage/access,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-4-1-1,1 Apr,2012,Orientale ,Ilongo,,30,6,,20.000,,,,"69,020,747",0.0435,0.0087,,,,,,,,,,,,Hygiene education,,https://promedmail.org/promed-posts/
+COD12-4-4-1,4 Apr,2012,,,,"8,000",,,,,,,"69,020,747",11.5907,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,South Kivu,,,"2,200",,,,,,,"69,020,747",3.1874,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-4-9-1,9 Apr,2012,South Kivu,,,"2,214",14,,0.632,,,,"69,020,747",3.2077,0.0203,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bandundu,,,528,16,,3.030,,,,"69,020,747",0.7650,0.0232,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kongo Central,,,379,8,,2.111,,,,"69,020,747",0.5491,0.0116,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,367,10,,2.725,,,,"69,020,747",0.5317,0.0145,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-4-10-1,10 Apr,2012,Equateur ,Mbandaka,,92,5,,5.435,,,,"69,020,747",0.1333,0.0072,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-5-18-1,18 May,2012,Equateur ,,,"12,291",244,,1.985,,,,"69,020,747",17.8077,0.3535,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-6-1-1,1 Jun,2012,,,,"15,351",358,,2.332,,,,"69,020,747",22.2411,0.5187,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-6-5-1,5 Jun,2012,Kongo Central,,,3,,,,,,,"69,020,747",0.0043,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-6-8-1,8 Jun,2012,,,,"19,100",400,,2.094,,,,"69,020,747",27.6728,0.5795,,,,,,Sanitation & hygiene ,Lack of awareness ,,,,,,,https://promedmail.org/promed-posts/
+COD12-6-26-1,26 Jun,2012,Kinshasa,Bumbu,,13,2,,15.385,,,,"69,020,747",0.0188,0.0029,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-6-27-1,27 Jun,2012,South Kivu,Rwanguba,,150,,,,,,,"69,020,747",0.2173,,,,,,,,,,,Y,,,,https://promedmail.org/promed-posts/
+COD12-7-5-1,5 Jul,2012,Kongo Central,,,934,16,,1.713,,,,"69,020,747",1.3532,0.0232,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-7-16-1,16 Jul,2012,Equateur ,,,"2,181",132,,6.052,,,,"69,020,747",3.1599,0.1912,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-7-23-1,23 Jul,2012,North Kivu,,,368,,,,,,,"69,020,747",0.5332,,,,,,,,,,,Y,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD12-7-31-1,31 Jul,2012,Kongo Central,Matadi,,103,2,,1.942,,,,"69,020,747",0.1492,0.0029,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-8-17-1,17 Aug,2012,North Kivu,Walikale,,100,4,,4.000,,,,"69,020,747",0.1449,0.0058,Displacement,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-8-21-1,21 Aug,2012,North Kivu,Vitshumbi ,Rutshuru,52,1,,1.923,,,,"69,020,747",0.0753,0.0014,,,,Contaminated river ,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-9-6-1,6 Sep,2012,Kongo Central,,,48,,,,,,,"69,020,747",0.0695,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-9-7-1,7 Sep,2012,Orientale ,Tchomia,,30,1,,3.333,,,,"69,020,747",0.0435,0.0014,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-9-13-1,13 Sep,2012,Katanga,Malemba-Nkulu,,59,7,,11.864,,,,"69,020,747",0.0855,0.0101,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD12-12-18-1,18 Dec,2012,Katanga,,,90,1,,1.111,,,,"69,020,747",0.1304,0.0014,,,,,,,,,,,,"Chlorination points, Hygiene education",,https://promedmail.org/promed-posts/
+,,,,Kalemie,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Nyemba,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-1-1-1,1 Jan,2013,Katanga ,,,"8,441",,12,,,"1,935 cases <5 yrs",,"71,358,807",11.8290,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+COD13-1-24-1,24 Jan,2013,Katanga,Lubumbashi,,350,8,,2.286,,,,"71,358,807",0.4905,0.0112,Katindo IDP camp ,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-2-2-1,2 Feb,2013,North Kivu,Goma,,6,1,,16.667,,,,"71,358,807",0.0084,0.0014,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-2-5-1,5 Feb,2013,Katanga,Lubumbashi,,"2,300",76,,3.304,,,,"71,358,807",3.2231,0.1065,,,,,,,,,,,,,"MSF, UNICEF",https://promedmail.org/promed-posts/
+COD13-4-11-1,11 Apr,2013,Ituri,Niania,,7,2,,28.571,,,,"71,358,807",0.0098,0.0028,,,Contaminated wells,,,Sanitation,,Gold miners,,,,,,https://promedmail.org/promed-posts/
+COD13-4-13-1,13 Apr,2013,South Kivu,Kamanyola,,22,4,,18.182,,,,"71,358,807",0.0308,0.0056,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-3-14-1,14 May,2013,Katanga,,,"10,000",250,,2.500,,,,"71,358,807",14.0137,0.3503,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Lubumbashi,,"6,000",58,,0.967,,,,"71,358,807",8.4082,0.0813,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Kinkondja ,Bukama,"2,000",46,,2.300,,,,"71,358,807",2.8027,0.0645,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Pweto ,,500,34,,6.800,,,,"71,358,807",0.7007,0.0476,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-6-1-1,1 Jun,2013,Katanga,Likasi,,894,34,,3.803,,,,"71,358,807",1.2528,0.0476,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-7-19-1,29 Jul,2013,Ituri,Niania,,10,5,,50.000,,,,"71,358,807",0.0140,0.0070,,,Contaminated wells,,,Sanitation,,Gold miners,,,,,,https://promedmail.org/promed-posts/
+COD13-8-21-1,21 Aug,2013,South Kivu,Minova,,19,,,,,,,"71,358,807",0.0266,,,,,,,Sanitation,,,,,,,,https://promedmail.org/promed-posts/
+COD13-9-11-1,11 Sep,2013,South Kivu,Minova,,107,,,,,,,"71,358,807",0.1499,,,,,,,Hygiene,,,,,,,,https://promedmail.org/promed-posts/
+COD13-10-11-1,11 Oct,2013,Tanganyika,Kalemie,,228,,,,,,,"71,358,807",0.3195,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-11-19-1,10 Nov,2013,South Kivu,Baraka,,50,,,,,Mainly in children,,"71,358,807",0.0701,,,,,,,Hygiene,,,,,,,,https://promedmail.org/promed-posts/
+COD13-11-27-1,27 Nov,2013,South Kivu,Fizi,,125,,,,,,,"71,358,807",0.1752,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-11-29-1,29 Nov,2013,Katanga,Likasi,,894,34,,3.803,,,,"71,358,807",1.2528,0.0476,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-12-7-1,7 Dec,2013,South Kivu,Kadutu,,132,17,,12.879,,,,"71,358,807",0.1850,0.0238,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-12-12-1,12 Dec,2013,Katanga,Likasi,,438,13,,2.968,,,,"71,358,807",0.6138,0.0182,,,,Heavy rainfall,,,,,,,,,,https://promedmail.org/promed-posts/
+COD13-12-14-1,14 Dec,2013,Katanga,Lubumbashi,,42,1,,2.381,,,,"71,358,807",0.0589,0.0014,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD14-1-1-1,1 Jan,2014,Lomani,,,"4,644",,0,,,"1,285 cases <5 yrs",,"73,767,447",6.2955,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+COD14-1-8-1,8 Jan,2014,South Kivu,Sange,,80,2,,2.500,,,,"73,767,447",0.1084,0.0027,,,Water shortage/access,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD14-1-17-1,17 Jan,2014,South Kivu,Sange,,224,3,,1.339,,,,"73,767,447",0.3037,0.0041,,,,,,Hygiene,,,,,,,,https://promedmail.org/promed-posts/
+COD14-2-12-1,12 Feb,2014,Katanga,Bukama,,111,3,,2.703,,,,"73,767,447",0.1505,0.0041,,,,,,Sanitation,,,,,,,,https://promedmail.org/promed-posts/
+COD14-2-28-1,28 Feb,2014,Katanga,,,"1,100",,,,,,,"73,767,447",1.4912,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Kilwa,,74,,,,,,,"73,767,447",0.1003,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Fungurume,,10,,,,,,,"73,767,447",0.0136,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD14-4-24-1,24 Apr,2014,Katanga,Likasi,,"1,054",43,,4.080,,,,"73,767,447",1.4288,0.0583,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD14-5-20-1,20 May,2014,South Kivu,Baraka,,50,0,,0.000,,,,"73,767,447",0.0678,,,,,,,,,,,,,Chlorination points,,https://promedmail.org/promed-posts/
+COD14-6-2-1,2 Jun,2014,South Kivu,Fizi,,52,,,,,,,"73,767,447",0.0705,,,,Water shortage/access,,,,,,,,,,,https://promedmail.org/promed-posts/
+,1 Jul,2014,Katanga,,,,,,,,,"51,000",,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Kalemie,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Nyemba,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD14-7-18-1,18 Jul,2014,Katanga,Kimwenze,,91,25,,27.473,,,,"73,767,447",0.1234,0.0339,Displacement,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD14-8-25-1,25 Aug,2014,Katanga,,,500,177,,35.400,,,,"73,767,447",0.6778,0.2399,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD14-9-12-1,12 Sep,2014,South Kivu,Sange ,Ruzizi,72,1,,1.389,,,,"73,767,447",0.0976,0.0014,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD14-12-18-1,18 Dec,2014,Katanga,,,"8,700",249,,2.862,,,,"73,767,447",11.7938,0.3375,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,1 Jan,2015,Tanganyika,Kalemie,,,,,,,,"120,000",,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+COD15-1-13-1,13 Jan,2015,South Kivu,Kiliba,,14,1,,7.143,,,,"76,244,544",0.0184,0.0013,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD15-1-15-1,15 Jan,2015,,,,"53,037","1,145",841,2.159,,,,"76,244,544",69.5617,1.5017,,,,,,,,,,,,,,https://apps.who.int/iris/bitstream/handle/10665/259809/OEW1-2018.pdf?sequence=1&isAllowed=y
+COD15-2-11-1,11 Feb,2015,Katanga,Ankoro,,3,1,,33.333,,,,"76,244,544",0.0039,0.0013,,,,,,,,,,,,,RedCross,https://promedmail.org/promed-posts/
+COD15-3-4-1,4 Mar,2015,Katanga,,,"1,500",35,,2.333,,,,"76,244,544",1.9674,0.0459,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD15-4-2-1,4 Apr,2015,Katanga,,,"2,000",37,,1.850,,,,"76,244,544",2.6231,0.0485,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD15-9-1-1,1 Sep,2015,Congo River,,,"25,422",,756,,,"4,991 cases <5 yrs ",,"76,244,544",33.3427,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD15-9-7-1,7 Sep,2015,Maniema,,,697,37,,5.308,,,,"76,244,544",0.9142,0.0485,Displacement,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Ituri,,,269,,,,,,,"76,244,544",0.3528,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD15-9-27-1,27 Sep,2015,Maniema,,,"3,000",82,,2.733,,,,"76,244,544",3.9347,0.1075,Displacement,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Kindu,,,,,,,,,,,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Kailo,,,,,,,,,,,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Alunguli,,,,,,,,,,,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Orientale ,,,"1,000",,,,,,,"76,244,544",1.3116,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD15-10-1-1,1 Oct,2015,Tshopo,,Kisangani Prison,40,4,,10.000,,,,"76,244,544",0.0525,0.0052,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD15-10-5-1,5 Oct,2015,Maniema,Kindu,,"2,420",67,,2.769,,,,"76,244,544",3.1740,0.0879,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD15-12-10-1,10 Dec,2015,Katanga,,Mura Military Centre,300,10,,3.333,,,,"76,244,544",0.3935,0.0131,,,,,,,,,,,,Health minister investigation ,,https://promedmail.org/promed-posts/
+COD15-12-15-1,15 Dec,2015,,,,"19,705",,,,,,,"76,244,544",25.8445,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,South Kivu,,,"4,906",,,,,,,"76,244,544",6.4346,,IDP camp,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Katanga ,,,"4,565",,,,,,,"76,244,544",5.9873,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Maniema,,,"3,971",,,,,,,"76,244,544",5.2082,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,North Kivu,,,"3,294",,,,,,,"76,244,544",4.3203,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+,,,Orientale ,,,"2,969",,,,,,,"76,244,544",3.8940,,,,,,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD15-12-21-1,21 Dec,2015,Ituri,,,180,,,,,,,"76,244,544",0.2361,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Katanga,,,180,,,,,,,"76,244,544",0.2361,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Nyemba,,75,,,,,,,"76,244,544",0.0984,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Moba,,44,,,,,,,"76,244,544",0.0577,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Kalemie,,39,,,,,,,"76,244,544",0.0512,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Bukama,,17,,,,,,,"76,244,544",0.0223,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Lubumbashi,Likasi,21,,,,,,,"76,244,544",0.0275,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Ituri,,Nyarambe,95,,,,,,,"76,244,544",0.1246,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,1 Jan,2016,Kinshasa,,,,,,,,,"375,000",,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+COD16-1-1-1,1 Jan,2016,Katanga,,,85,3,,3.529,,,,"78,789,127",0.1079,0.0038,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD16-1-7-1,7 Jan,2016,Katanga,,,151,7,,4.636,,,,"78,789,127",0.1917,0.0089,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD16-1-18-1,18 Jan,2016,,,,460,3,,0.652,,,,"78,789,127",0.5838,0.0038,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD16-1-25-1,25 Jan,2016,,,,271,2,,0.738,,,,"78,789,127",0.3440,0.0025,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD16-3-11-1,11 Mar,2016,Tshopo,,,300,30,4,10.000,,,,"78,789,127",0.3808,0.0381,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Basoko,,340,30,,8.824,,,,"78,789,127",0.4315,0.0381,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Kisangani,,10,,,,,,,"78,789,127",0.0127,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Yahuma,,18,5,,27.778,,,,"78,789,127",0.0228,0.0063,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-3-28-1,28 Mar,2016,Lomani,Bukama,,27,0,,0.000,,,,"78,789,127",0.0343,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Kabondo-Dianda,,25,0,,0.000,,,,"78,789,127",0.0317,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Butuma,,12,0,,0.000,,,,"78,789,127",0.0152,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Malemba-Nkulu,,5,1,,20.000,,,,"78,789,127",0.0063,0.0013,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,North Kivu,Rutshuru,,32,,,,,,,"78,789,127",0.0406,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Goma,,16,,,,,,,"78,789,127",0.0203,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,Kirotshe,,15,,,,,,,"78,789,127",0.0190,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD16-4-7-1,7 Apr,2016,Kinshasa,Maluku,,6,1,,16.667,,,,"78,789,127",0.0076,0.0013,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Equateur ,,,6,2,,33.333,,,,"78,789,127",0.0076,0.0025,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Tshopo,,,319,5,,1.567,,,,"78,789,127",0.4049,0.0063,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Katanga,,,208,4,,1.923,,,,"78,789,127",0.2640,0.0051,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Lomani,,,199,4,,2.010,,,,"78,789,127",0.2526,0.0051,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,North Kivu,,,197,0,,0.000,,,,"78,789,127",0.2500,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,South Kivu,,,222,1,,0.450,,,,"78,789,127",0.2818,0.0013,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD16-4-16-1,16 Apr,2016,Mongala,Bumba,,38,4,,10.526,,,,"78,789,127",0.0482,0.0051,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-5-9-1,9 May,2016,Kinshasa,,,14,2,,14.286,,,,"78,789,127",0.0178,0.0025,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Equateur ,,,219,,,,,,,"78,789,127",0.2780,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Mai-Ndombe,,,32,,,,,,,"78,789,127",0.0406,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD16-5-23-1,23 May,2016,Equateur ,,,258,25,,9.690,,,,"78,789,127",0.3275,0.0317,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-6-13-1,13 Jun,2016,Ituri,Nyarambe,,190,,,,,,,"78,789,127",0.2412,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD16-6-27-1,27 Jun,2016,Tanganyika,,,130,2,,1.538,,,,"78,789,127",0.1650,0.0025,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD16-7-5-1,5 Jul,2016,Mongala,,,70,,,,,,,"78,789,127",0.0888,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Kinshasa,,Limete,3,1,,33.333,,,,"78,789,127",0.0038,0.0013,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,North Ubangui,,Bili,387,35,,9.044,,,,"78,789,127",0.4912,0.0444,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD16-7-13-1,13 Jul,2016,Tanganyika,,,161,3,,1.863,,,,"78,789,127",0.2043,0.0038,,,,,,,,,,,,Chlorination points,,https://promedmail.org/promed-posts/
+,,,,Kalemie,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Nyemba,,121,,,,,,,"78,789,127",0.1536,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-7-20-1,20 Jul,2016,Tshopo,,,306,15,,4.902,,,,"78,789,127",0.3884,0.0190,,,,,,Handwashing & hygiene ,,,,,,,,https://promedmail.org/promed-posts/
+COD16-8-14-1,25 Aug,2016,Mongala,Boso-Modanda,,144,20,,13.889,,,,"78,789,127",0.1828,0.0254,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-8-29-1,29 Aug,2016,Kinshasa,,,6,,,,,,,"78,789,127",0.0076,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-8-31-1,31 Aug,2016,,,,"16,860",446,,2.645,,,,"78,789,127",21.3989,0.5661,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-9-3-1,3 Sep,2016,,,,"18,000",500,,2.778,,,,"78,789,127",22.8458,0.6346,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-25-9-1,25 Sep,2016,Maniema,Kindu,,51,2,,3.922,,,,"78,789,127",0.0647,0.0025,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-10-21-1,21 Oct,2016,Equateur ,Mbandaka,,31,0,,0.000,,,,"78,789,127",0.0393,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-10-28-1,28 Oct,2016,,,,"22,002",646,,2.936,,,,"78,789,127",27.9252,0.8199,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,North Ubangui,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,South Ubangui,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Tshopo,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Mongala,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Maniema,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Mai-Ndombe,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kinshasa,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD16-11-10-1,10 Nov,2016,Tanganyika,Mwenge,,141,11,,7.801,,,,"78,789,127",0.1790,0.0140,,,,,,,,,,,,Chlorination points,MSF,https://promedmail.org/promed-posts/
+COD16-12-28-1,28 Dec,2016,Kinshasa,,,123,10,,8.130,,,,"78,789,127",0.1561,0.0127,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-1-17-1,17 Jan,2017,Kinshasa,,,725,32,,4.414,,,,"81,398,764",0.8907,0.0393,,,,Heavy rainfall,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-2-21-1,21 Feb,2017,Bas Uele,Aketi,,190,6,,3.158,,,,"81,398,764",0.2334,0.0074,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-3-2-1,2 Mar,2017,Kongo Central,Matadi,,,,,,,,,,,,,,,,,,,,Prison,,,,,https://promedmail.org/promed-posts/
+,,,,,Molayi Prison,35,1,,2.857,,,,"81,398,764",0.0430,0.0012,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,,Nzanza,20,3,,15.000,,,,"81,398,764",0.0246,0.0037,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-3-3-1,3 Mar,2017,,,,"5,829",203,,3.483,,,,"81,398,764",7.1610,0.2494,,,,,,,,,,Y,,WASH initiative planned,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+COD17-3-9-1,9 Mar,2017,,,,"3,635",103,,2.834,,,,"81,398,764",4.4657,0.1265,IDP camp,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Maniema,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Mongala,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Bas Uele,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Tanganyika,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-3-9-2,9 Mar,2017,Ituri,Mambasa,,219,29,,13.242,,,,"81,398,764",0.2690,0.0356,,,,,,,,,,,,,MSF,https://promedmail.org/promed-posts/
+COD17-3-12-1,12 Mar,2017,,,,651,15,,2.304,,,,"81,398,764",0.7998,0.0184,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Ituri,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Tanganyika,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Maindombe,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Mongala,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Kongo Central,,Matadi Prison,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+COD17-3-14-1,14 Mar,2017,Equateur ,Mbandaka,,79,,,,,,,"81,398,764",0.0971,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-3-23-1,23 Mar,2017,South Kivu,Fizi ,,123,12,,9.756,,,,"81,398,764",0.1511,0.0147,,,,,,,,,,,Lack of supplies ,,MSF,https://promedmail.org/promed-posts/
+COD17-4-9-1,9 Apr,2017,,,,321,10,,3.115,,,,"81,398,764",0.3944,0.0123,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+COD17-6-12-1,12 Jun,2017,Kinshasa,,Kokolo,85,,,,,,,"81,398,764",0.1044,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Kongo Central,,,"1,457",,,,,,,"81,398,764",1.7900,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,,,Kimpese,973,20,,2.055,,,,"81,398,764",1.1953,0.0246,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Tanganyika,,,"2,706",,,,,,,"81,398,764",3.3244,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,South Kivu,,,"1,410",,,,,,,"81,398,764",1.7322,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,Mongala,,,"1,371",,,,,,,"81,398,764",1.6843,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD17-6-18-1,18 Jun,2017,,,,602,15,,2.492,,,,"81,398,764",0.7396,0.0184,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Lomani,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Tanganyika,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Kongo Central,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,North Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Equateur ,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Kinshasa,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+COD17-7-1-1,1 Jul,2017,,,,"2,497",,10,,,374 cases <5 yrs,,"81,398,764",3.0676,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,Kwilu,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,Kwango,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,Kasai,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,Lomani,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,Sankuru,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+COD17-7-2-1,2 Jul,2017,,,,563,11,,1.954,,,,"81,398,764",0.6917,0.0135,IDP camp,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+COD17-7-3-1,3 Jul,2017,,,,"15,456",441,,2.853,,,,"81,398,764",18.9880,0.5418,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+,,,North Kivu,,,"1,464",12,,0.820,,3/5 deaths in children,,"81,398,764",1.7986,0.0147,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD17-8-13-1,13 Jul,2017,North Kivu,Goma,Nyirangongo,578,4,,0.692,,,,"81,398,764",0.7101,0.0049,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-8-19-1,19 Jul,2017,North Kivu,Goma,Nyirangongo,"1,168",2,,0.171,,,,"81,398,764",1.4349,0.0025,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-8-30-1,30 Jul,2017,,,,"1,090",11,,1.009,,,,"81,398,764",1.3391,0.0135,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,North Kivu,,,700,2,,0.286,,,,"81,398,764",0.8600,0.0025,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,South Kivu,,,108,0,,0.000,,,,"81,398,764",0.1327,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Lomani,,,101,1,,0.990,,,,"81,398,764",0.1241,0.0012,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Kongo Central,,,59,0,,0.000,,,,"81,398,764",0.0725,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Tanganyika,,,49,1,,2.041,,,,"81,398,764",0.0602,0.0012,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Mai-Ndombe,,,20,1,,5.000,,,,"81,398,764",0.0246,0.0012,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+,,,Kinshasa,,,15,2,,13.333,,,,"81,398,764",0.0184,0.0025,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=9
+COD17-9-1-1,1 Aug,2017,,,,"21,362",,46,,,"6,653 cases <5 yrs",,"81,398,764",26.2436,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,North Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+,,,Tanganyika,,,,,,,,,,,,,,,,,,,,,,,,,,"Ingelbeen, B., Hendrickx, D., Miwanda, B., van der Sande, M.A., Mossoko, M., Vochten, H., Riems, B., Nyakio, J.P., Vanlerberghe, V., Lunguya, O. and Jacobs, J., 2019. Recurrent cholera outbreaks, Democratic Republic of the Congo, 2008–2017. Emerging Infectious Diseases, 25(5), p.856."
+COD17-8-8-1,8 Aug,2017,Goma,,,"3,140",117,,3.726,,,,"81,398,764",3.8576,0.1437,,,,,,,,,,,,Provide water ,,https://promedmail.org/promed-posts/
+COD17-8-13-1,13 Aug,2017,South Kivu,Fizi,,75,,,,,,,"81,398,764",0.0921,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-8-17-1,17 Aug,2017,South Kivu,,Minova,230,,,,,,,"81,398,764",0.2826,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD17-8-18-1,18 Aug,2017,Kwilu,,,100,16,,16.000,,,,"81,398,764",0.1229,0.0197,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-9-9-1,9 Sep,2017,,,,"27,881",568,,2.037,,,,"81,398,764",34.2524,0.6978,,,Water shortage/access,,,Sanitation ,,,Poor infrastructure ,,,,,https://promedmail.org/promed-posts/
+COD17-9-10-1,10 Sep,2017,,,,"1,761",21,,1.193,,,,"81,398,764",2.1634,0.0258,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Katanga,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Lomani,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Kongo Central,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Kwilu,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Maindombe,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Maniema,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,North Kivu,,,559,,,,,,,"81,398,764",0.6867,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,South Kivu,,,776,,,,,,,"81,398,764",0.9533,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Tanganyika,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Mongala,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+COD17-9-11-1,11 Sep,2017,,,,"24,000",528,,2.200,,,,"81,398,764",29.4845,0.6487,,,,,,Sanitation & hygiene ,,,,Y,,,,https://promedmail.org/promed-posts/
+COD17-10-1-1,1 Oct,2017,,,,"2,184",15,,0.687,,,,"81,398,764",2.6831,0.0184,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,North Kivu,,,937,1,,0.107,,,,"81,398,764",1.1511,0.0012,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,South Kivu,,,637,3,,0.471,,,,"81,398,764",0.7826,0.0037,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Tanganyika,,,409,7,,1.711,,,,"81,398,764",0.5025,0.0086,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Lomani,,,247,4,,1.619,,,,"81,398,764",0.3034,0.0049,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Kongo Central,,,146,5,,3.425,,,,"81,398,764",0.1794,0.0061,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+COD17-10-4-1,4 Oct,2017,Lomani,,,"2,000",70,,3.500,,,,"81,398,764",2.4570,0.0860,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-10-15-1,15 Oct,2017,,,,"1,854",26,,1.402,,,,"81,398,764",2.2777,0.0319,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,North Kivu,,,733,6,,0.819,,,,"81,398,764",0.9005,0.0074,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,South Kivu,,,467,1,,0.214,,,,"81,398,764",0.5737,0.0012,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Tanganyika,,,217,2,,0.922,,,,"81,398,764",0.2666,0.0025,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Lomani,,,188,7,,3.723,,,,"81,398,764",0.2310,0.0086,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Kongo Central,,,150,3,,2.000,,,,"81,398,764",0.1843,0.0037,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Maniema,,,48,3,,6.250,,,,"81,398,764",0.0590,0.0037,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+COD17-11-6-1,6 Nov,2017,Kasai,,,"1,990",50,,2.513,,,,"81,398,764",2.4448,0.0614,,,,,,,,,,,,,"WHO, UNICEF, MSF",https://promedmail.org/promed-posts/
+COD17-11-17-1,17 Nov,2017,,,,"44,000",822,,1.868,,,,"81,398,764",54.0549,1.0098,Displacement,,,,,,,,,Y,Damaged facilities ,,,https://promedmail.org/promed-posts/
+,,,Kasai,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Lomani,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD17-11-25-1,25 Nov,2017,Kinshasa,,,"1,022",43,,4.207,,,,"81,398,764",1.2555,0.0528,,,,,,,,,,,,,,https://public.emdat.be
+COD17-11-27-1,27 Nov,2017,Kinshasa,,,123,10,,8.130,,,,"81,398,764",0.1511,0.0123,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD18-1-20-1,20 Jan,2018,Ituri,,,536,17,,3.172,,,,"84,068,091",0.6376,0.0202,,,Water shortage/access,,,Sanitation ,,,,,,,UNICEF,https://promedmail.org/promed-posts/
+,,,,Tchomia,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Gety,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Angumu,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Nyarambe,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD18-2-9-1,9 Feb,2018,Kinshasa,,,997,41,74,4.112,,,,"84,068,091",1.1859,0.0488,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,,Binza-Météo,,429,,,,,,,"84,068,091",0.5103,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,,Kintambo,,174,,,,,,,"84,068,091",0.2070,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,,Limete,,162,,,,,,,"84,068,091",0.1927,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+COD18-2-12-1,12 Feb,2018,Kasai Orientale ,Mbuki-Mayi,,"5,854",277,,4.732,"51% M cases, 54.5% M deaths ",73.1% cases and 84.1% deaths >15 years. CFR was highest <1 year old,,"84,068,091",6.9634,0.3295,,Funeral,,,Rural,,,Diamond miners,,,,,,"Dongmo, N.T., Mutombo, B., Ateudjieu, J., Tengomo, G.F., Kwengani, M., Gabo, P., Diwampovesa, M.C.G., Akilimali, L., Miwanda, B., Nkwesheu, A. and Bangonda, M., 2020. Cholera Outbreak in the Kasaï Orientale  Province, Democratic Republic of Congo (DRC), 2018: The Case Fatality Rate in Mbuji-Mayi City and in the Rural Area. Science, 8(1), pp.8-18."
+COD18-2-18-1,18 Feb,2018,Mongala,,,,1,,,,,,"84,068,091",,0.0012,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD18-3-2-1,2 Mar,2018,Kinshasa,,,"1,065",43,,4.038,,,,"84,068,091",1.2668,0.0511,,,,Heavy rainfall,,,,,,,,,,https://www.who.int/csr/don/archive/disease/cholera/en/
+COD18-3-4-1,4 Mar,2018,Kasai Orientale ,,,90,13,,14.444,,,,"84,068,091",0.1071,0.0155,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD18-3-25-1,25 Mar,2018,,,,497,10,,2.012,,,,"84,068,091",0.5912,0.0119,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Mai-Ndombe,,,84,,,,,,,"84,068,091",0.0999,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,North Kivu,,,77,,,,,,,"84,068,091",0.0916,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Equateur ,,,73,,,,,,,"84,068,091",0.0868,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,South Kivu,,,58,,,,,,,"84,068,091",0.0690,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Kongo Central,,,56,,,,,,,"84,068,091",0.0666,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Kinshasa,,,26,0,,0.000,,,,"84,068,091",0.0309,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Kasai Orientale ,Mbuki-Mayi,,20,,,,,,,"84,068,091",0.0238,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Mai-Ndombe,Yumbi,,,,,,,,"30,000",,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+COD18-4-23-1,23 Apr,2018,,,,271,,,,,,,"84,068,091",0.3224,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD18-4-30-1,30 Apr,2018,,,,321,,,,,,,"84,068,091",0.3818,,,,,,,,,,,,,,,http://plateformecholera.info/index.php/cholera-in-wca/regional-updates
+COD18-6-5-1,5 Jun,2018,Kasai Orientale ,Mbuki-Mayi,,645,33,,5.116,,,,"84,068,091",0.7672,0.0393,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD18-8-9-1,9 Aug,2018,Kasai Orientale ,Kasana,,667,32,,4.798,,,,"84,068,091",0.7934,0.0381,,,,,,,,,,,,,MSF,"D’Mello-Guyett, L., Greenland, K., Bonneville, S., D’hondt, R., Mashako, M., Gorski, A., Verheyen, D., Van den Bergh, R., Maes, P., Checchi, F. and Cumming, O., 2020. Distribution of hygiene kits during a cholera outbreak in Kasaï-Orientale , Democratic Republic of Congo: a process evaluation. Conflict and health, 14(1), pp.1-17."
+COD18-8-17-1,17 Aug,2018,Kasai Orientale ,,,"2,100",125,,5.952,,,,"84,068,091",2.4980,0.1487,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD18-9-16-1,16 Sep,2018,Equateur ,Lukolela,,30,,,,,,,"84,068,091",0.0357,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD18-10-1-1,1 Oct,2018,Kasai Orientale ,,,"4,780",249,,5.209,52% M,50% aged 5-36 yrs,,"84,068,091",5.6859,0.2962,,Funeral,"Street food, poor water quality",,,,Ignoring cholera education ,Caring for sick,,,,,,"Miwanda, N.B., Akilimali, L., Tshizemba, M.A., Diwampovesa, M.C.G., Nkweshieu, A.S. and Mbopi-Keou, F.X., A Case-Control Study to Identify Risk Factors Related to Cholera Outbreak in Kasai Orientale  Province, Democratic Republic of Congo, 2018."
+COD18-11-11-1,11 Nov,2018,Tanganyika,,,"2,546",25,,0.982,,,,"84,068,091",3.0285,0.0297,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD18-11-14-1,14 Nov,2018,,,,"25,000",857,,3.428,,,,"84,068,091",29.7378,1.0194,,,Water shortage/access,,,Sanitation,,,,,,,,https://promedmail.org/promed-posts/
+,,,Kasai Orientale ,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Lomani,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Tanganyika,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,Katanga,,,,,,,,,,,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD18-22-23-1,23 Nov,2018,Katanga,Pweto,,16,,,,,,,"84,068,091",0.0190,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,8 Dec,2018,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Kasai,,,,,,,,,"49,228",,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Kasai Orientale ,,,,,,,,,"845,463",,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Lomani,,,,,,,,,"130,562",,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Sankuru,,,,,,,,,"210,719",,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,1 Jan,2019,North Kivu,,,,,,,,,"835,183",,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,,Binza,,,,,,,,,,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,,Goma,,,,,,,,,,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,,Kayina,,,,,,,,,,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,,Karisimbi,,,,,,,,,,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,,Kibirizi,,,,,,,,,,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,,Rutshuru,,,,,,,,,,,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-1-19-1,19 Jan,2019,Katanga,Lubumbashi,,"1,304",64,,4.908,,,,"86,790,567",1.5025,0.0737,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD19-1-27-1,27 Jan,2019,,,,"2,705",71,,2.625,,,,"86,790,567",3.1167,0.0818,,,,,,,,,,,,,"MSF, Red Cross, UNICEF",https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Katanga,,,927,32,,3.452,,,,"86,790,567",1.0681,0.0369,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Lomani,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,South Kivu,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Tanganyika,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+COD19-2-23-1,23 Feb,2019,Katanga,,,209,,,,,,,"86,790,567",0.2408,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Lomani,,,100,,,,,,,"86,790,567",0.1152,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-3-11-1,11 Mar,2019,South Kivu,,,54,,,,,,,"86,790,567",0.0622,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-3-23-1,25 Mar,2019,Lomani,,,35,,,,,,,"86,790,567",0.0403,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-4-1-1,1 Apr,2019,Lomani,,,80,,,,,,,"86,790,567",0.0922,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-4-15-1,15 Apr,2019,South Kivu,,,91,,,,,,,"86,790,567",0.1049,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-5-6-1,6 May,2019,Tanganyika,,,113,,,,,,,"86,790,567",0.1302,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-5-13-1,13 May,2019,South Kivu,,,161,,,,,,,"86,790,567",0.1855,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Katanga,,,78,,,,,,,"86,790,567",0.0899,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Tanganyika,,,56,,,,,,,"86,790,567",0.0645,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-5-25-1,25 May,2019,,,,,7,,,,,,"86,790,567",0.0000,0.0081,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Tanganyika,,,83,,,,,,,"86,790,567",0.0956,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Katanga,,,84,,,,,,,"86,790,567",0.0968,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,South Kivu,,,159,,,,,,,"86,790,567",0.1832,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Kasai,,,60,,,,,,,"86,790,567",0.0691,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-5-27-1,27 May,2019,North Kivu,,,,,,,,,"800,000",,,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD19-6-8-1,8 Jun,2019,,,,397,,,,,,,"86,790,567",0.4574,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Kivu,,,281,,,,,,,"86,790,567",0.3238,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Sankuru,,,,2,,,,,,"86,790,567",,0.0023,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Equateur ,,,,1,,,,,,"86,790,567",,0.0012,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,North Kivu,,,,4,,,,,,"86,790,567",,0.0046,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,Tanganyika,,,,1,,,,,,"86,790,567",,0.0012,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-6-22-1,22 Jun,2019,North Kivu,,,174,,,,,,,"86,790,567",0.2005,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,South Kivu,,,128,,,,,,,"86,790,567",0.1475,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-7-6-1,6 Jul,2019,North Kivu,,,124,,,,,,,"86,790,567",0.1429,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,South Kivu,,,156,,,,,,,"86,790,567",0.1797,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-7-20-1,20 Jul,2019,North Kivu,,,156,,,,,,,"86,790,567",0.1797,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,,,South Kivu,,,102,,,,,,,"86,790,567",0.1175,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-8-3-1,3 Aug,2019,North Kivu,,,200,,,,,,,"86,790,567",0.2304,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+,24 Aug,2019,North Kivu,Goma,,133,,,,,,,"86,790,567",0.1532,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-9-22-1,22 Sep,2019,,,,925,19,,2.054,,,,"86,790,567",1.0658,0.0219,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,North Kivu,,,247,,,,,,,"86,790,567",0.2846,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,South Kivu,,,246,,,,,,,"86,790,567",0.2834,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Tanganyika,,,152,,,,,,,"86,790,567",0.1751,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Lomani,,,169,,,,,,,"86,790,567",0.1947,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Orientale ,,,70,,,,,,,"86,790,567",0.0807,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+COD19-10-13-1,13 Oct,2019,Maniema,,,40,,,,,,,"86,790,567",0.0461,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD19-11-9-1,9 Nov,2019,North Kivu,Goma,,53,,,,,,,"86,790,567",0.0611,,,,,,,,,,,,,,,http://www.plateformecholera.info/index.php/ressources/tools-and-guidelines/ocv-vaccine/874-monitoring-ocv
+COD19-12-22-1,22 Dec,2019,,,,"2,285",,,,,,"2,070,972","86,790,567",2.6328,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,South Kivu,,,697,,,,,,,"86,790,567",0.8031,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,North Kivu,,,490,,,,,,,"86,790,567",0.5646,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Tshopo,,,367,,,,,,,"86,790,567",0.4229,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Tanganyika,,,297,,,,,,,"86,790,567",0.3422,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Lomani,,,230,,,,,,,"86,790,567",0.2650,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Katanga,,,204,,,,,,,"86,790,567",0.2350,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+COD20-1-26-1,26 Jan,2020,,,,"2,651",43,45,1.622,,,,"89,561,403",2.9600,0.0480,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,North Kivu,,,"1,084",,,,,,,"89,561,403",1.2103,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,South Kivu,,,705,,,,,,,"89,561,403",0.7872,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Katanga,,,341,,,,,,,"89,561,403",0.3807,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+,,,Tanganyika,,,284,,,,,,,"89,561,403",0.3171,,,,,,,,,,,,,,,https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?page=7
+COD20-3-4-1,4 Mar,2020,Katanga,,,,30,,,,,,"89,561,403",,0.0335,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Lubumbashi,,200,12,,6.000,,,,"89,561,403",0.2233,0.0134,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Kafubu,,106,18,,16.981,,,,"89,561,403",0.1184,0.0201,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD20-3-18-1,18 Mar,2020,Kasai Orientale ,Mbuki-Mayi,,13,1,,7.692,,,,"89,561,403",0.0145,0.0011,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD20-4-12-1,13 Apr,2020,Lualaba,,,190,6,,3.158,,,,"89,561,403",0.2121,0.0067,,,Water shortage/access,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Bunkeya,,110,3,,2.727,,,,"89,561,403",0.1228,0.0033,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+,,,,Tandis,,62,2,,3.226,,,,"89,561,403",0.0692,0.0022,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD20-8-29-1,29 Jul,2020,Lomani,Ngandajika,,9,3,,33.333,,,,"89,561,403",0.0100,0.0033,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD20-9-28-1,28 Sep,2020,Kasai Orientale ,Mbuki-Mayi,,100,7,,7.000,,,,"89,561,403",0.1117,0.0078,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD20-10-12-1,13 Oct,2020,Katanga ,Mitwaba,,41,0,,0.000,,,,"89,561,403",0.0458,,,,Poor water quality ,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD20-11-16-1,16 Nov,2020,Kasai Orientale ,Mbuki-Mayi,,8,0,,0.000,,,,"89,561,403",0.0089,,,,,,,,,,,,,,,https://promedmail.org/promed-posts/
+COD20-11-21-1,21 Nov,2020,Lomani,Kalambayi,,55,8,,14.545,,,,"89,561,403",0.0614,0.0089,,,,,,,,,,,Lack of supplies ,,,https://promedmail.org/promed-posts/
