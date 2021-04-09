@@ -3,67 +3,54 @@
 
 library(dplyr)
 library(ggplot2)
-library(lubridate)
 library(zoo)
 library(sf)
 library(viridis)
-
-nga <- read_excel("Library/Mobile Documents/com~apple~Preview/Documents/PhD/Chapter 3 - Drought:Conflict:Cholera, DRC&NGA/Data/Cholera/cholera_plots.xlsx", 
-                    +     sheet = "NGA")
-cod <- read_excel("Library/Mobile Documents/com~apple~Preview/Documents/PhD/Chapter 3 - Drought:Conflict:Cholera, DRC&NGA/Data/Cholera/cholera_plots.xlsx", 
-                    +     sheet = "COD")
+library(ggpubr)
 
 # Fig. 1
 # NGA
-nga_plots <- nga[c(2,3,4,6,7)]
-date <- nga_plots$Date
+nga <- nga[c(2,3,4,6,7)]
+date <- nga$Date
 df_date <- data.frame(date = date, year = as.numeric(format(date, format = "%Y")),
                       month = as.numeric(format(date, format = "%m")),
                       day = as.numeric(format(date, format = "%d")))
-nga_plots <- cbind(nga_plots, df_date)
-nga_plots <- nga_plots[c(2,3,4,5,8,9)]
-nga_cases <- nga_plots[c(1,3,5,6)]
-nga_deaths <- nga_plots[c(1,4,5,6)]
-nga_cases <- na.omit(nga_cases)
-nga_cases <- nga_cases %>% group_by(month, Year) %>% mutate(monthly_cases = sum(Cases))
-nga_cases <- nga_cases[-c(2,4)]
-nga_cases <- nga_cases %>% distinct()
-nga_cases$Date <- as.yearmon(paste(nga_cases$Year, nga_cases$month), "%Y %m")
-nga_cases_plot <- ggplot(nga_cases, aes(x = Date, y = monthly_cases)) + geom_line(color = "#A3319F") + 
-  theme_bw() + labs(y = "Monthly Cases", title = "NGA, cases")
-nga_deaths <- na.omit(nga_deaths)
-nga_deaths <- nga_deaths %>% group_by(month, Year) %>% mutate(monthly_deaths = sum(Deaths))
-nga_deaths <- nga_deaths[-c(2,4)]
-nga_deaths <- nga_deaths %>% distinct()
-nga_deaths$Date <- as.yearmon(paste(nga_deaths$Year, nga_deaths$month), "%Y %m")
-nga_deaths_plot <- ggplot(nga_deaths, aes(x = Date, y = monthly_deaths)) + geom_line(color = "#DF488D") + 
-  theme_bw() + labs(y = "Monthly Deaths", title = "NGA, deaths")
-# COD
-cod_plots <- cod[c(2,3,4,7,8)]
-date <- cod_plots$Date
-df_date <- data.frame(date = date, year = as.numeric(format(date, format = "%Y")),
-                      month = as.numeric(format(date, format = "%m")),
-                      day = as.numeric(format(date, format = "%d")))
-cod_plots <- cbind(cod_plots, df_date)
-cod_plots <- cod_plots[c(2,3,4,7,8)]
-cod_cases <- cod_plots[c(1,2,4,5)]
-cod_deaths <- cod_plots[c(1,3,4,5)]
-cod_cases <- na.omit(cod_cases)
-cod_cases <- cod_cases %>% group_by(month, Year) %>% mutate(monthly_cases = sum(Cases))
-cod_cases <- cod_cases[-c(2,4)]
-cod_cases <- cod_cases %>% distinct()
-cod_cases$Date <- as.yearmon(paste(cod_cases$Year, cod_cases$month), "%Y %m")
-cod_cases_plot <- ggplot(cod_cases, aes(x = Date, y = monthly_cases)) + geom_line(color = "#FA7876") + 
-  theme_bw() + labs(y = "Monthly Cases", title = "COD, cases")
-cod_deaths <- na.omit(cod_deaths)
-cod_deaths <- cod_deaths %>% group_by(month, Year) %>% mutate(monthly_deaths = sum(Deaths))
-cod_deaths <- cod_deaths[-c(2,4)]
-cod_deaths <- cod_deaths %>% distinct()
-cod_deaths$Date <- as.yearmon(paste(cod_deaths$Year, cod_deaths$month), "%Y %m")
-cod_deaths_plot <- ggplot(cod_deaths, aes(x = Date, y = monthly_deaths)) + geom_line(color = "#F3B584") + 
-  theme_bw() + labs(y = "Monthly Deaths", title = "COD, deaths")
+df_date <- df_date[-c(1,2)]
+nga <- cbind(nga, df_date)
+nga <- nga %>% group_by(Year, month) %>% mutate(monthly_cases = sum(Cases, na.rm = TRUE))
+nga <- nga %>% group_by(Year, month) %>% mutate(monthly_deaths = sum(Deaths, na.rm = TRUE))
+nga <- nga[-c(2,3)]
+nga <- nga %>% distinct()
+nga$Date <- as.yearmon(paste(nga$Year, nga$month), "%Y %m")
+nga$Date <- as.character(nga$Date)
+cod$Date <- factor(cod$Date, levels = cod$Date)
+pos <- as.character(c("Mar 1971", "May 2000", "Jan 2010", "Jan 2015", "Jan 2018", "Jan 2020"))
+labels <- as.character(c("Mar 1971", "May 2000", "Jan 2010", "Jan 2015", "Jan 2018", "Jan 2020"))
+nga_c_plot <- ggplot(nga, aes(x=Date1, y=monthly_cases)) + geom_bar(stat="identity", color = "#952C80FF", fill = "#952C80FF") + scale_x_discrete(breaks = pos, labels = labels) + labs(x = "Date", y = "Monthly Cases", title = "NGA, cases") + theme_bw()
+nga_d_plot <- ggplot(nga, aes(x=Date1, y=monthly_deaths)) + geom_bar(stat="identity", color = "#952C80FF", fill = "#952C80FF") + scale_x_discrete(breaks = pos, labels = labels) + labs(x = "Date", y = "Monthly Deaths", title = "NGA, deaths") + theme_bw()
 
-ggarrange(nga_cases_plot, nga_deaths_plot, cod_cases_plot, cod_deaths_plot, nrow = 2, ncol = 2)
+# COD
+cod <- cod[c(2,3,4,7,8)]
+date <- cod$Date
+df_date <- data.frame(date = date, year = as.numeric(format(date, format = "%Y")),
+                      month = as.numeric(format(date, format = "%m")),
+                      day = as.numeric(format(date, format = "%d")))
+df_date <- df_date[-c(1,2)]
+cod <- cbind(cod, df_date)
+cod <- cod[-c(1,6)]
+cod <- cod %>% group_by(Year, month) %>% mutate(monthly_cases = sum(Cases, na.rm = TRUE))
+cod <- cod %>% group_by(Year, month) %>% mutate(monthly_deaths = sum(Deaths, na.rm = TRUE))
+cod <- cod[-c(2,3)]
+cod <- cod %>% distinct()
+cod$Date <- as.yearmon(paste(cod$Year, cod$month), "%Y %m")
+cod$Date <- as.character(cod$Date)
+cod$Date <- factor(cod$Date, levels = cod$Date)
+pos <- as.character(c("May 1978", "Oct 2002", "Jan 2010", "Jan 2012", "Jan 2015", "Jan 2018", "Jan 2020"))
+labels <- as.character(c("May 1978", "Oct 2002", "Jan 2010", "Jan 2012", "Jan 2015", "Jan 2018", "Jan 2020"))
+cod_c_plot <- ggplot(cod, aes(x=Date, y=monthly_cases)) + geom_bar(stat="identity", color = "#FD9A6AFF", fill = "#FD9A6AFF") + scale_x_discrete(breaks = pos, labels = labels) + labs(x = "Date", y = "Monthly Cases", title = "COD, cases") + theme_bw()
+cod_d_plot <- ggplot(cod, aes(x=Date, y=monthly_deaths)) + geom_bar(stat="identity", color = "#FD9A6AFF", fill = "#FD9A6AFF") + scale_x_discrete(breaks = pos, labels = labels) + labs(x = "Date", y = "Monthly Deaths", title = "COD, deaths") + theme_bw()
+
+ggarrange(nga_c_plot, nga_d_plot, cod_c_plot, cod_d_plot, nrow = 2, ncol = 2)
 
 # Fig. 2
 # Shapefiles were taken from:
@@ -130,6 +117,4 @@ cod_map_deaths_plot <- ggplot(cod_shp) + geom_sf(aes(fill=perc_province_deaths),
   theme_void() + geom_sf_text(aes(label = ADM1_FR), size = 3, check_overlap = TRUE, color = "#EA4F88")
 
 ggarrange(nga_map_cases_plot, nga_map_deaths_plot, cod_map_cases_plot, cod_map_deaths_plot, nrow = 2, ncol = 2)
-
-
 
