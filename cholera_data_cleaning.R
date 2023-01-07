@@ -1,3 +1,6 @@
+## More information on the dataset is available at: https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07266-w
+# Charnley, G.E.C., Kelman, I., Gaythorpe, K.A.M. et al. Accessing sub-national cholera epidemiological data for Nigeria and the Democratic Republic of Congo during the seventh pandemic. BMC Infect Dis 22, 288 (2022).
+
 # Sub-national cholera data for Nigeria and DRC 
 # Data cleaning and summary plots 
 
